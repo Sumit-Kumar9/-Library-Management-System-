@@ -8,7 +8,7 @@ Created a desktop application using Java Swing for managing Library records.
 Implemented CRUD operations for adding, updating, and deleting Books and student information.       
 Utilized MySQL database for storing and retrieving Books record. 
 
-Home section -
-C:\Users\sumit\OneDrive\Pictures\Screenshots\Screenshots\Screenshot (470).png
+
+
 
   
